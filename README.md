@@ -6,6 +6,10 @@ Test this in an environment where you don't have the theming module installed an
 
 Download release zip file
 
+Make sure to unblock the zip file befor extracting contents
+
+![image](https://user-images.githubusercontent.com/4499296/158845271-a4f80c41-92d6-4c0f-94d5-bc2abf4f7096.png)
+
 Extract contents
 
 authenticate to the Dataverse environment using pac
